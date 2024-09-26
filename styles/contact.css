@@ -1,0 +1,16 @@
+.header-contact {
+  background-image: url(https://www.itschool.ro/_next/static/media/background.d5722ffa.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 520px;
+}
+.header-contact .suntem-aici {
+  color: white;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 58.08px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
